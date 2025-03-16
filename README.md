@@ -71,6 +71,10 @@ This Chrome extension lets you quickly add, view, and manage bookmarks on YouTub
 
 ---
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
+</p>
+
 ## ⚙️ Optional Configuration
 
 If you want the extension to display a custom notification (with an image) when it loads, modify your `contentScript.js` file as follows:
