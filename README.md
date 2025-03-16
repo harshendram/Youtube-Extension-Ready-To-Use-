@@ -8,7 +8,7 @@ This Chrome extension lets you quickly add, view, and manage bookmarks on YouTub
 
 ---
 
-## 📥 Installation & Setup
+## 📥 How To Use ?
 
 ### 🔹 Step 1: Clone or Download the Repository
 
