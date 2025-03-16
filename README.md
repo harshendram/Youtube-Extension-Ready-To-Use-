@@ -42,7 +42,7 @@ This Chrome extension lets you quickly add, view, and manage bookmarks on YouTub
 - **What Happens:**  
   A notification pops up confirming that the bookmark has been added.
 - **Visual Feedback:**  
-  ![Bookmark Added](assets/SuccessMsg.png)  
+  ![Bookmark Added](assets/SucessMsg.png)  
   *Figure: A success message appears when a bookmark is added.*
 
 ---
