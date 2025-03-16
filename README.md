@@ -1,4 +1,4 @@
-# **⏱️📌 YouTube Timestamp Bookmarker**
+# **⏱️📌 YouTube Timestamp Bookmarker Extension !!!**
 
 
 🚀 *Bookmark your favorite moments on YouTube effortlessly!* 🚀  
@@ -42,7 +42,7 @@ This Chrome extension lets you quickly add, view, and manage bookmarks on YouTub
 - **What Happens:**  
   A notification pops up confirming that the bookmark has been added.
 - **Visual Feedback:**  
-  ![Bookmark Added](assets/successMsg.png)  
+  ![Bookmark Added](assets/SuccessMsg.png)  
   *Figure: A success message appears when a bookmark is added.*
 
 ---
@@ -54,7 +54,7 @@ This Chrome extension lets you quickly add, view, and manage bookmarks on YouTub
 - **What Happens:**  
   A list of your saved bookmarks appears, complete with **▶ (play)** and **🗑️ (delete)** buttons for each entry.
 - **Visual Feedback:**  
-  ![Bookmark List](assets/bookmarks list.png)  
+  ![Bookmark List](assets/bookmark%20list.png)  
   *Figure: The bookmark list display with options to play or delete each bookmark.*
 
 ---
