@@ -38,7 +38,7 @@ This Chrome extension lets you quickly add, view, and manage bookmarks on YouTub
 ### ✅ **1. Adding a Bookmark**
 
 - **How to:**  
-  While watching a YouTube video, click on the **➕ (plus)** icon to add a bookmark at the current timestamp.
+  While watching a YouTube video, click on the **➕ (plus)** icon which will be next to caption option of youtube to add a bookmark at the current timestamp.
 - **What Happens:**  
   A notification pops up confirming that the bookmark has been added.
 - **Visual Feedback:**  
