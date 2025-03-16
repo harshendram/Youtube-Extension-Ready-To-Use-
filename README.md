@@ -96,6 +96,11 @@ if (youtubeLeftControls && youtubePlayer) {
 
 ---
 
+🌟 **If you find this project useful, consider giving it a star!** ⭐
+
+[![GitHub Stars](https://img.shields.io/github/stars/harshendram/Youtube-Extension-Ready-To-Use-?style=social)](https://github.com/harshendram/Youtube-Extension-Ready-To-Use-/stargazers)
+
+
 ## 💡 Contributing & Issues
 
 Contributions, feature enhancements, and bug fixes are always welcome! 🚀
