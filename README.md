@@ -29,7 +29,7 @@ This Chrome extension lets you quickly add, view, and manage bookmarks on YouTub
 2. Enable **Developer Mode** by toggling the switch at the top right.
 ![Developer Mode Enabled](assets/developer-mode.png)
 
-3. Click **Load unpacked** and select the `youtube-extension` folder from the unzipped/cloned repository.
+3. Click **Load unpacked** and select the `youtube-extension` folder from the unzipped/cloned repository or you can just simply drag and drop it to the above image interface.
 
 ---
 
