@@ -1,11 +1,10 @@
-<div align="center">
 # **⏱️📌 YouTube Timestamp Bookmarker**
 
 
 🚀 *Bookmark your favorite moments on YouTube effortlessly!* 🚀  
 This Chrome extension lets you quickly add, view, and manage bookmarks on YouTube videos while providing instant visual feedback for each action.
 
-</div>
+
 
 ---
 
